@@ -1,0 +1,17 @@
+# Build output
+zord
+zord.dSYM/
+
+# Compiled objects
+*.o
+*.a
+*.out
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
